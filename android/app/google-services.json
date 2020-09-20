@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "807199466930",
+    "firebase_url": "https://flash-chat-66722.firebaseio.com",
+    "project_id": "flash-chat-66722",
+    "storage_bucket": "flash-chat-66722.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807199466930:android:0c81d495aaeb2dab0f30ab",
+        "android_client_info": {
+          "package_name": "app.fruggal.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807199466930-fnc7ocsi3b8lpo39ieuk1ne0r4ufomee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPpgkKwCKT384K9X5p2DhNpFR5QBZO1DU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807199466930-fnc7ocsi3b8lpo39ieuk1ne0r4ufomee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
